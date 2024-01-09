@@ -31,4 +31,4 @@ Caso queira abrir/rodar em um editor de texto da sua preferência, pode ficar a 
 
 * Agradeço a mim mesmo por dedicar tempo, esforço e paixão ao projeto. E também aos meus familiares que me apoiaram e me apoiam nessa jornada. Cada desafio foi superado com determinação, e cada conquista é uma prova do meu comprometimento. Este é apenas o começo de uma jornada repleta de realizações pessoais. Obrigado por você está vindo até aqui, para olhar esse pequeno projetinho 😁😎. #AutoAgradecimento #ConquistasPessoais.
 * Para suporte, mande um email para sena_marcos.fp@hotmail.com.
-* Link do linkedin [Meu linkedin](https://www.linkedin.com/in/marcos-henrique-gomess/)
+* Link do linkedin [Meu linkedin](https://www.linkedin.com/in/marcos-henrique-gomess/).
